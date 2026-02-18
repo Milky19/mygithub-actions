@@ -5,6 +5,6 @@ public class Cal{
 		int add=a+b;
 		int sub=a-b;
 		System.out.println("The sum is:"+add);
-		Systemc.out.println("The Difference is:"+sub);
+		System.out.println("The Difference is:"+sub);
 	}
 }
